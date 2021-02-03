@@ -1,0 +1,4 @@
+rootProject.name = 'moreGradleStuff'
+include 'submodule'
+include 'anothermodule'
+
